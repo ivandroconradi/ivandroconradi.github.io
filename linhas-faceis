@@ -1,0 +1,4 @@
+Comandos CMD
+
+Verificar o modelo da laca mãe:
+wmic baseboard get product,Manufacturer,version,serialnumber
