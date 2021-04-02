@@ -3,7 +3,13 @@
 
 Você pode usar o [editor on GitHub](https://github.com/ivandroconradi/ivandroconradi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Linhas de comando faceis do [CMD](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/linhas-faceis) para copiar e colar.
+Linhas de comando [na mão Linux](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/linhas-na-mao-linux) para copiar e colar.
+
+Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/linhas-na-mao-windows) para copiar e colar.
+
+[Links](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-importantes-para-leitura) importantes para leitura.
+
+Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selecionados.
 
 ### Markdown
 
