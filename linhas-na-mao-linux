@@ -1,1 +1,3 @@
+Grub
+Aa linha onde tem o parâmetro "/boot/vmlinuz-" basta acrescente init=/bin/bash no final
 
