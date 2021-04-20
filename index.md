@@ -11,6 +11,14 @@ Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandrocon
 
 Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selecionados.
 
+.[redeIP](https://www.pop-sc.rnp.br/publico/monitoramento.php)
+
+.[RNP - Panorama de Panorama de tráfego](https://www.rnp.br/sistema-rnp/ferramentas/panorama-de-trafego)
+
+.[PTT Florianópolis](https://www.pch.net/ixp/details/22)
+
+.[Conectividade POP-SC](https://www.pop-sc.rnp.br/servicos/conectividade/)
+
 ### Markdown
 
 Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
