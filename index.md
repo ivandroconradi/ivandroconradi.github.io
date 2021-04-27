@@ -32,6 +32,10 @@ Cursos:
 
 [Julio Battisti](https://juliobattisti.com.br/loja/default.asp?mod=4)
 
+Forense:
+
+[Meetup Forense](http://meetupforense.com.br)
+
 ### Markdown
 
 Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
