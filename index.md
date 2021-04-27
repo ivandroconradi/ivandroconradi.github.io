@@ -28,6 +28,7 @@ Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selec
 
 Cursos:
 [Stato](http://www.stato.blog.br/cursos/)
+[Julio Battisti](https://juliobattisti.com.br/loja/default.asp?mod=4)
 
 ### Markdown
 
