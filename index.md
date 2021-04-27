@@ -21,6 +21,8 @@ Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selec
 
 .[Lista de Comunidades BGP](https://wiki.brasilpeeringforum.org/w/Lista_de_Communities_BGP)
 
+.[Forum IX.BR](https://regional.forum.ix.br/)
+
 ### Markdown
 
 Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
