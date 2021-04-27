@@ -19,6 +19,8 @@ Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selec
 
 .[Conectividade POP-SC](https://www.pop-sc.rnp.br/servicos/conectividade/)
 
+.[Lista_de_Comunidades_BGP](https://wiki.brasilpeeringforum.org/w/Lista_de_Communities_BGP)
+
 ### Markdown
 
 Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
