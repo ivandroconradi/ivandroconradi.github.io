@@ -25,6 +25,11 @@ Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selec
 
 .[Inocentes Brasil](https://www.innocencebrasil.org/)
 
+
+Cursos:
+
+[Stato](http://www.stato.blog.br/cursos/)
+
 ### Markdown
 
 Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
