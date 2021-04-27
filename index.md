@@ -11,23 +11,22 @@ Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandrocon
 
 Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selecionados.
 
-.[redeIP](https://www.pop-sc.rnp.br/publico/monitoramento.php)
+[redeIP](https://www.pop-sc.rnp.br/publico/monitoramento.php)
 
-.[RNP - Panorama de Panorama de tráfego](https://www.rnp.br/sistema-rnp/ferramentas/panorama-de-trafego)
+[RNP - Panorama de Panorama de tráfego](https://www.rnp.br/sistema-rnp/ferramentas/panorama-de-trafego)
 
-.[PTT Florianópolis](https://www.pch.net/ixp/details/22)
+[PTT Florianópolis](https://www.pch.net/ixp/details/22)
 
-.[Conectividade POP-SC](https://www.pop-sc.rnp.br/servicos/conectividade/)
+[Conectividade POP-SC](https://www.pop-sc.rnp.br/servicos/conectividade/)
 
-.[Lista de Comunidades BGP](https://wiki.brasilpeeringforum.org/w/Lista_de_Communities_BGP)
+[Lista de Comunidades BGP](https://wiki.brasilpeeringforum.org/w/Lista_de_Communities_BGP)
 
-.[Forum IX.BR](https://regional.forum.ix.br/)
+[Forum IX.BR](https://regional.forum.ix.br/)
 
-.[Inocentes Brasil](https://www.innocencebrasil.org/)
+[Inocentes Brasil](https://www.innocencebrasil.org/)
 
 
 Cursos:
-
 [Stato](http://www.stato.blog.br/cursos/)
 
 ### Markdown
