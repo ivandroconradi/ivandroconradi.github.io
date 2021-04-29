@@ -11,6 +11,8 @@ Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandrocon
 
 Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selecionados.
 
+[Megabyte](https://pt.wikipedia.org/wiki/Megabyte)
+
 [redeIP](https://www.pop-sc.rnp.br/publico/monitoramento.php)
 
 [RNP - Panorama de Panorama de tráfego](https://www.rnp.br/sistema-rnp/ferramentas/panorama-de-trafego)
