@@ -40,6 +40,8 @@ Cursos:
 
 [Cisco Inclusão](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao.html)
 
+[Voz sobre IP - Consumo de largura de banda por chamada](https://www.cisco.com/c/pt_br/support/docs/voice/voice-quality/7934-bwidth-consume.html)
+
 
 Forense:
 
