@@ -31,11 +31,15 @@ Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selec
 [Inocentes Brasil](https://www.innocencebrasil.org/)
 
 
+
 Cursos:
 
 [Stato](http://www.stato.blog.br/cursos/)
 
 [Julio Battisti](https://juliobattisti.com.br/loja/default.asp?mod=4)
+
+[Cisco Inclusão](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao.html)
+
 
 Forense:
 
