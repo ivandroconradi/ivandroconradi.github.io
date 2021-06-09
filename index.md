@@ -50,6 +50,10 @@ Forense:
 
 [Meetup Forense](http://meetupforense.com.br)
 
+
+Certificações:
+[Red Hat](https://www.redhat.com/pt-br/services/certification)
+
 ### Markdown
 
 Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
