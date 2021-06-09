@@ -51,8 +51,7 @@ Forense:
 [Meetup Forense](http://meetupforense.com.br)
 
 
-Certificações:
-[Red Hat](https://www.redhat.com/pt-br/services/certification)
+Certificação [Red Hat](https://www.redhat.com/pt-br/services/certification)
 
 ### Markdown
 
