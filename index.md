@@ -53,6 +53,10 @@ Forense:
 
 Certificação [Red Hat](https://www.redhat.com/pt-br/services/certification), [Oracle](https://education.oracle.com/learning-explorer), [Comptia](https://www.comptia.org/pt/certificacoes/linux)
 
+
+### Segurança
+https://www.kaspersky.com.br/blog/kaspersky-anti-ransomware-tool-for-business/
+
 ### Markdown
 
 Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
