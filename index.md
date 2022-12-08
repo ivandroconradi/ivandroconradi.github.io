@@ -88,6 +88,8 @@ https://wiki.mikrotik.com/wiki/Basic_universal_firewall_script
 
 Voip Monitor [docs](voipmonitor.org/doc/Content)
 
+https://utech.com.br/site/produtos/interface-celular-gsm/
+
 
 ## Forense:
 
