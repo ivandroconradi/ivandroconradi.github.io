@@ -13,9 +13,14 @@ Linhas de comando [na mão Linux](https://github.com/ivandroconradi/ivandroconra
 
 Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/linhas-na-mao-windows) para copiar e colar.
 
+
+[Links](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-favoritos) favoritos.
+
 [Links](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-importantes-para-leitura) importantes para leitura.
 
+
 Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selecionados.
+
 
 [Megabyte](https://pt.wikipedia.org/wiki/Megabyte)
 
