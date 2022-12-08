@@ -49,9 +49,13 @@ Teste [Leaf DNS](http://leafdns.com/index.cgi?testid=6B8EF0B0)
 [Inocentes Brasil](https://www.innocencebrasil.org)
 
 
-### Utilitarios
+### Utilitarios e Drivers
 
-https://dennisbabkin.com/utilities/
+https://ninite.com/
+
+https://dennisbabkin.com/utilities
+
+https://www.driverscloud.com/pt
 
 
 ## Vagrant
