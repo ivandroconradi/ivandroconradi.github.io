@@ -31,8 +31,6 @@ Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandrocon
 
 Teste [Leaf DNS](http://leafdns.com/index.cgi?testid=6B8EF0B0)
 
-Voip Monitor [docs](voipmonitor.org/doc/Content)
-
 [RedeIP](https://www.pop-sc.rnp.br/publico/monitoramento.php)
 
 [RNP - Panorama de Panorama de tráfego](https://www.rnp.br/sistema-rnp/ferramentas/panorama-de-trafego)
@@ -47,6 +45,10 @@ Voip Monitor [docs](voipmonitor.org/doc/Content)
 
 [Inocentes Brasil](https://www.innocencebrasil.org/)
 
+## VoIP
+[Conversor de texto para voz](https://www.ibm.com/demos/live/tts-demo/self-service/home) da IBM
+
+Voip Monitor [docs](voipmonitor.org/doc/Content)
 
 ## Cursos:
 
@@ -63,8 +65,11 @@ Voip Monitor [docs](voipmonitor.org/doc/Content)
 
 [Meetup Forense](http://meetupforense.com.br)
 
+Certificação [Red Hat](https://www.redhat.com/pt-br/services/certification)
 
-Certificação [Red Hat](https://www.redhat.com/pt-br/services/certification), [Oracle](https://education.oracle.com/learning-explorer), [Comptia](https://www.comptia.org/pt/certificacoes/linux)
+[Oracle](https://education.oracle.com/learning-explorer)
+
+[Comptia](https://www.comptia.org/pt/certificacoes/linux)
 
 
 ## Segurança
