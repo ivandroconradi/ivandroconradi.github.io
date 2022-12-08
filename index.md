@@ -48,7 +48,23 @@ Teste [Leaf DNS](http://leafdns.com/index.cgi?testid=6B8EF0B0)
 
 [Inocentes Brasil](https://www.innocencebrasil.org)
 
+
+## Vagrant
+
+https://app.vagrantup.com/
+
+https://app.vagrantup.com/boxes/search?page=32
+
+
+## Ansible
+
+https://www.ansible.com/
+
+https://ansible.dunossauro.live/04_configuracao_do_ansible
+
+
 ## Firewall
+
 ### PfSense
 https://www.pfsense.org
 
