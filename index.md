@@ -13,6 +13,7 @@ Linhas de comando [na mão Linux](https://github.com/ivandroconradi/ivandroconra
 
 Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/linhas-na-mao-windows) para copiar e colar.
 
+
 # Links
 
 [Favoritos](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-favoritos)
@@ -21,9 +22,11 @@ Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandrocon
 
 [Megabyte](https://pt.wikipedia.org/wiki/Megabyte)
 
+
 ## Repositório
 
 [Scripts](https://github.com/ivandroconradi/scripts) selecionados.
+
 
 ## Ferramentas
 
@@ -37,28 +40,32 @@ Teste [Leaf DNS](http://leafdns.com/index.cgi?testid=6B8EF0B0)
 
 [PTT Florianópolis](https://www.pch.net/ixp/details/22)
 
-[Conectividade POP-SC](https://www.pop-sc.rnp.br/servicos/conectividade/)
+[Conectividade POP-SC](https://www.pop-sc.rnp.br/servicos/conectividade)
 
 [Lista de Comunidades BGP](https://wiki.brasilpeeringforum.org/w/Lista_de_Communities_BGP)
 
-[Forum IX.BR](https://regional.forum.ix.br/)
+[Forum IX.BR](https://regional.forum.ix.br)
 
-[Inocentes Brasil](https://www.innocencebrasil.org/)
+[Inocentes Brasil](https://www.innocencebrasil.org)
+
+## Firewall
+### PfSense
+https://www.pfsense.org
+
+https://www.networkpro.com.br
+
+### OPNSense
+https://opnsense.org
+
+### Mikrotik
+https://wiki.brasilpeeringforum.org/w/Boas_pr%C3%A1ticas_de_seguran%C3%A7a_para_roteadores_Mikrotik
+
+https://wiki.mikrotik.com/wiki/Basic_universal_firewall_script
 
 ## VoIP
 [Conversor de texto para voz](https://www.ibm.com/demos/live/tts-demo/self-service/home) da IBM
 
 Voip Monitor [docs](voipmonitor.org/doc/Content)
-
-## Cursos:
-
-[Stato](http://www.stato.blog.br/cursos/)
-
-[Julio Battisti](https://juliobattisti.com.br/loja/default.asp?mod=4)
-
-[Cisco Inclusão](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao.html)
-
-[Voz sobre IP - Consumo de largura de banda por chamada](https://www.cisco.com/c/pt_br/support/docs/voice/voice-quality/7934-bwidth-consume.html)
 
 
 ## Forense:
@@ -73,7 +80,18 @@ Certificação [Red Hat](https://www.redhat.com/pt-br/services/certification)
 
 
 ## Segurança
-https://www.kaspersky.com.br/blog/kaspersky-anti-ransomware-tool-for-business/
+https://www.kaspersky.com.br/blog/kaspersky-anti-ransomware-tool-for-business
+
+
+## Cursos:
+
+[Stato](http://www.stato.blog.br/cursos)
+
+[Julio Battisti](https://juliobattisti.com.br/loja/default.asp?mod=4)
+
+[Cisco Inclusão](https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao.html)
+
+[Voz sobre IP - Consumo de largura de banda por chamada](https://www.cisco.com/c/pt_br/support/docs/voice/voice-quality/7934-bwidth-consume.html)
 
 
 ### Markdown
