@@ -13,18 +13,27 @@ Linhas de comando [na mão Linux](https://github.com/ivandroconradi/ivandroconra
 
 Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/linhas-na-mao-windows) para copiar e colar.
 
+# Links
 
-[Links](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-favoritos) favoritos.
+[Favoritos](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-favoritos)
 
-[Links](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-importantes-para-leitura) importantes para leitura.
-
-
-Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selecionados.
-
+[Leitura importante](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-importantes-para-leitura)
 
 [Megabyte](https://pt.wikipedia.org/wiki/Megabyte)
 
-[redeIP](https://www.pop-sc.rnp.br/publico/monitoramento.php)
+## Repositório
+
+[Scripts](https://github.com/ivandroconradi/scripts) selecionados.
+
+## Ferramentas
+
+[Whois](https://www.whois.com/whois/209.142.64.23)
+
+Teste [Leaf DNS](http://leafdns.com/index.cgi?testid=6B8EF0B0)
+
+Voip Monitor [docs](voipmonitor.org/doc/Content)
+
+[RedeIP](https://www.pop-sc.rnp.br/publico/monitoramento.php)
 
 [RNP - Panorama de Panorama de tráfego](https://www.rnp.br/sistema-rnp/ferramentas/panorama-de-trafego)
 
@@ -39,8 +48,7 @@ Repositório com meus [scripts](https://github.com/ivandroconradi/scripts) selec
 [Inocentes Brasil](https://www.innocencebrasil.org/)
 
 
-
-Cursos:
+## Cursos:
 
 [Stato](http://www.stato.blog.br/cursos/)
 
@@ -51,7 +59,7 @@ Cursos:
 [Voz sobre IP - Consumo de largura de banda por chamada](https://www.cisco.com/c/pt_br/support/docs/voice/voice-quality/7934-bwidth-consume.html)
 
 
-Forense:
+## Forense:
 
 [Meetup Forense](http://meetupforense.com.br)
 
@@ -59,8 +67,9 @@ Forense:
 Certificação [Red Hat](https://www.redhat.com/pt-br/services/certification), [Oracle](https://education.oracle.com/learning-explorer), [Comptia](https://www.comptia.org/pt/certificacoes/linux)
 
 
-### Segurança
+## Segurança
 https://www.kaspersky.com.br/blog/kaspersky-anti-ransomware-tool-for-business/
+
 
 ### Markdown
 
