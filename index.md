@@ -15,7 +15,9 @@ Linhas de comando [na mão Linux](https://github.com/ivandroconradi/ivandroconra
 
 Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/linhas-na-mao-windows) para copiar e colar.
 
+```markdown
 apt install curl tmux nmon glances nmap
+```
 
 # Links
 
