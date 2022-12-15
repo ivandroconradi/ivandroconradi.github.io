@@ -5,6 +5,8 @@ Você pode usar o [editor on GitHub](https://github.com/ivandroconradi/ivandroco
 
 [https://www.youtube.com/ivandroconradi](https://www.youtube.com/user/ivandroconradi)
 
+http://wiki.ubuntu-br.org/Ivandro_Conradi
+
 
 [O que fazer se você for vítima de crime eletrônico](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/O%20que%20fazer%20se%20voce%CC%82%20for%20vi%CC%81tima%20de%20crime%20eletro%CC%82nico.pdf)
 
@@ -13,6 +15,7 @@ Linhas de comando [na mão Linux](https://github.com/ivandroconradi/ivandroconra
 
 Linhas de comando [na mão Windows](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/linhas-na-mao-windows) para copiar e colar.
 
+apt install curl tmux nmon glances nmap
 
 # Links
 
