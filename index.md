@@ -61,7 +61,7 @@ Teste [Leaf DNS](http://leafdns.com/index.cgi?testid=6B8EF0B0)
 
 [Inocentes Brasil](https://www.innocencebrasil.org)
 
-http://www.caspian.dotconf.net/
+http://caspian.dotconf.net/
 
 https://github.com/zehm/sendEmail
 
