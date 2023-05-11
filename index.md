@@ -27,6 +27,8 @@ make install
 
 # Links
 
+https://caioau.net/blog/intro-ansible/
+
 [Favoritos](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-favoritos)
 
 [Leitura importante](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-importantes-para-leitura)
