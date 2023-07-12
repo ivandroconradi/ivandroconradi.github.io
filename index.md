@@ -25,6 +25,8 @@ cd bashtop
 make install
 ```
 
+https://explainshell.com/
+
 # Links
 
 https://caioau.net/blog/intro-ansible/
