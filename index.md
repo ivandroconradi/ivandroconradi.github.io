@@ -120,7 +120,7 @@ https://utech.com.br/site/produtos/interface-celular-gsm/
 
 [Meetup Forense](http://meetupforense.com.br)
 
-[IPED](https%3A%2F%2Fgithub.com%2Fsepinf-inc%2FIPED%2Freleases%2Fdownload%2F4.0.6%2FIPED-4.0.6_and_plugins.zip)
+[IPED](https://github.com/sepinf-inc/IPED/releases)
 
 Certificação [Red Hat](https://www.redhat.com/pt-br/services/certification)
 
