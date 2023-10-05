@@ -128,6 +128,8 @@ Certificação [Red Hat](https://www.redhat.com/pt-br/services/certification)
 
 [Comptia](https://www.comptia.org/pt/certificacoes/linux)
 
+[Introdução Ao IPED Forense, Com o Prof. e Diretor Renan Cavalheiro](https://www.youtube.com/watch?v=oTwZTZdp2TQ)
+
 
 ## Segurança
 https://www.kaspersky.com.br/blog/kaspersky-anti-ransomware-tool-for-business
