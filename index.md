@@ -136,6 +136,8 @@ Certificação [Red Hat](https://www.redhat.com/pt-br/services/certification)
 ## Segurança
 https://www.kaspersky.com.br/blog/kaspersky-anti-ransomware-tool-for-business
 
+https://id-ransomware.malwarehunterteam.com/index.php?lang=pt_PT
+
 
 ## Cursos:
 
