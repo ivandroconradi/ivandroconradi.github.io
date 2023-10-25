@@ -149,6 +149,15 @@ https://id-ransomware.malwarehunterteam.com/index.php?lang=pt_PT
 
 [Voz sobre IP - Consumo de largura de banda por chamada](https://www.cisco.com/c/pt_br/support/docs/voice/voice-quality/7934-bwidth-consume.html)
 
+## Imagens:
+https://www.img2go.com/
+
+https://www.canva.com/projects
+
+https://pixabay.com/pt/videos/search/tecnologia/
+
+https://pt.vecteezy.com/videos-gratis/inform%C3%A1tica
+
 
 ### Markdown
 
