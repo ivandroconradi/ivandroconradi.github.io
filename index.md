@@ -138,6 +138,8 @@ https://www.kaspersky.com.br/blog/kaspersky-anti-ransomware-tool-for-business
 
 https://id-ransomware.malwarehunterteam.com/index.php?lang=pt_PT
 
+https://www.shodan.io/host/200.160.4.6
+
 
 ## Cursos:
 
@@ -150,14 +152,30 @@ https://id-ransomware.malwarehunterteam.com/index.php?lang=pt_PT
 [Voz sobre IP - Consumo de largura de banda por chamada](https://www.cisco.com/c/pt_br/support/docs/voice/voice-quality/7934-bwidth-consume.html)
 
 ## Imagens:
-https://www.img2go.com/
 
-https://www.canva.com/projects
+https://www.gratispng.com/
 
 https://pixabay.com/pt/videos/search/tecnologia/
 
+### Ferramentas para Edição de Imagens
+
+https://new.express.adobe.com/
+
+https://www.img2go.com/
+
 https://pt.vecteezy.com/videos-gratis/inform%C3%A1tica
 
+### Gifs e Videos
+
+https://www.canva.com/projects
+
+### Comprimir Gif para MP4
+
+https://www.veed.io/pt-BR/ferramentas/comprimir-video/comprimir-gif
+
+### Converter MP4 para Gif
+
+https://www.adobe.com/br/express/feature/video/convert/mp4-to-gif
 
 ### Markdown
 
