@@ -138,6 +138,8 @@ https://www.kaspersky.com.br/blog/kaspersky-anti-ransomware-tool-for-business
 
 https://id-ransomware.malwarehunterteam.com/index.php?lang=pt_PT
 
+https://www.nomoreransom.org/pt/index.html
+
 https://www.shodan.io/host/200.160.4.6
 
 
