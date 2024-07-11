@@ -153,6 +153,8 @@ https://www.shodan.io/host/200.160.4.6
 
 [Voz sobre IP - Consumo de largura de banda por chamada](https://www.cisco.com/c/pt_br/support/docs/voice/voice-quality/7934-bwidth-consume.html)
 
+[Futuro da Telefonia](https://www.youtube.com/live/tb38AiAiHXM?si=apsGJU7rDSnHWN4n)
+
 ## Imagens:
 
 https://www.gratispng.com/
