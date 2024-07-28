@@ -155,6 +155,8 @@ https://www.shodan.io/host/200.160.4.6
 
 [Futuro da Telefonia](https://www.youtube.com/live/tb38AiAiHXM?si=apsGJU7rDSnHWN4n)
 
+[A verdade sobre Kubernetes](https://youtu.be/3yG7tHuuDZI?si=Es_YnnuWF4y0HUE5)
+
 ## Imagens:
 
 https://www.gratispng.com/
