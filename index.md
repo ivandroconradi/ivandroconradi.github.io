@@ -157,6 +157,9 @@ https://www.shodan.io/host/200.160.4.6
 
 [A verdade sobre Kubernetes](https://youtu.be/3yG7tHuuDZI?si=Es_YnnuWF4y0HUE5)
 
+[Scrum - Projetos Ágeis e Pessoas Felizes](https://scrum.brod.com.br/)
+
+
 ## Imagens:
 
 https://www.gratispng.com/
