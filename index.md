@@ -47,6 +47,8 @@ https://app.liveoptics.com
 
 ## Ferramentas
 
+[Sysinternals](https://learn.microsoft.com/pt-br/sysinternals/downloads/sysinternals-suite)
+
 [Whois](https://www.whois.com/whois/209.142.64.23)
 
 Teste [Leaf DNS](http://leafdns.com/index.cgi?testid=6B8EF0B0)
