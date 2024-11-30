@@ -27,6 +27,9 @@ make install
 
 https://explainshell.com/
 
+[Clinton Fearon](https://www.youtube.com/watch?v=pbsKDxCsZx4&list=RDEMXglzsJI9WfPuaETYfI6OEA&start_radio=1)
+
+
 # Links
 
 https://caioau.net/blog/intro-ansible/
