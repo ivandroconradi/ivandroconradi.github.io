@@ -52,9 +52,11 @@ https://app.liveoptics.com
 
 [Sysinternals](https://learn.microsoft.com/pt-br/sysinternals/downloads/sysinternals-suite)
 
+[DiskInternals - Data Recovery Software](https://www.diskinternals.com)
+
 [Whois](https://www.whois.com/whois/209.142.64.23)
 
-Teste [Leaf DNS](http://leafdns.com/index.cgi?testid=6B8EF0B0)
+[Leaf DNS](http://leafdns.com/index.cgi?testid=6B8EF0B0)
 
 [RedeIP](https://www.pop-sc.rnp.br/publico/monitoramento.php)
 
