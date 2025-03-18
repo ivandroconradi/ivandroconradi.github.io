@@ -32,7 +32,11 @@ https://explainshell.com/
 
 # Links
 
-https://caioau.net/blog/intro-ansible/
+[Cheatsheets](https://cheatsheets.zip/)
+
+[Introdução Ansible](https://caioau.net/blog/intro-ansible/)
+
+[Codecademy](https://www.codecademy.com/resources/cheatsheets/all)
 
 [Favoritos](https://github.com/ivandroconradi/ivandroconradi.github.io/blob/master/links-favoritos)
 
