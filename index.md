@@ -54,6 +54,8 @@ https://app.liveoptics.com
 
 ## Ferramentas
 
+[SayMine](https://saymineapp.com/) (ou Mine) é uma plataforma que ajuda os usuários a gerenciar seus dados pessoais espalhados pela internet.
+
 [Sysinternals](https://learn.microsoft.com/pt-br/sysinternals/downloads/sysinternals-suite)
 
 [DiskInternals - Data Recovery Software](https://www.diskinternals.com)
