@@ -54,6 +54,8 @@ https://app.liveoptics.com
 
 ## Ferramentas
 
+[Cheat Sheets](https://cheatsheets.zip/)
+
 [SayMine](https://saymineapp.com/) (ou Mine) é uma plataforma que ajuda os usuários a gerenciar seus dados pessoais espalhados pela internet.
 
 [Sysinternals](https://learn.microsoft.com/pt-br/sysinternals/downloads/sysinternals-suite)
