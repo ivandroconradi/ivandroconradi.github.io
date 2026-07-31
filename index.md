@@ -151,13 +151,16 @@ Certificação [Red Hat](https://www.redhat.com/pt-br/services/certification)
 
 
 ## Segurança
-https://www.kaspersky.com.br/blog/kaspersky-anti-ransomware-tool-for-business
+https://www.kaspersky.com/anti-ransomware-tool
 
-https://id-ransomware.malwarehunterteam.com/index.php?lang=pt_PT
+https://id-ransomware.malwarehunterteam.com
 
 https://www.nomoreransom.org/pt/index.html
 
 https://www.shodan.io/host/200.160.4.6
+
+### Contêiner AdGuard no Proxmox
+https://github.com/community-scripts/ProxmoxVE/blob/main/ct/adguard.sh
 
 
 ## Cursos:
