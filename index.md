@@ -91,6 +91,8 @@ https://ninite.com/
 
 https://dennisbabkin.com/utilities
 
+https://github.com/adventdevinc/kudu/releases [OK]
+
 https://www.driverscloud.com/pt
 
 
