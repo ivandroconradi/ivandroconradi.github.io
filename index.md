@@ -44,7 +44,9 @@ https://explainshell.com/
 
 [Megabyte](https://pt.wikipedia.org/wiki/Megabyte)
 
-https://app.liveoptics.com
+[Liveoptics](https://app.liveoptics.com)
+
+[DiskGenius](https://www.diskgenius.com/download.php)
 
 
 ## Repositório
